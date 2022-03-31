@@ -1,0 +1,7 @@
+{
+  "name": "datePicker",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
